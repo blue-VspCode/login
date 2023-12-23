@@ -1,0 +1,1 @@
+insert into user (userid,password,username) values ('adm21jf005','root','admin');
